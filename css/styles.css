@@ -1,5 +1,5 @@
 body {
-    font-family: Roboto, sans-serif;
+    font-family: "Roboto", "Raleway", sans-serif;
     color: #434455;
     background-color: #ffffff;
 }
@@ -10,4 +10,31 @@ ul {
 
 a {
     text-decoration: none;
+    color: #434455;
+}
+
+.navigation .link-nav :hover {
+    color: #404bbf;
+}
+
+.navigation .link-nav .studio :active {
+    color: #404bbf;
+    text-decoration: underline;
+}
+
+.adress .link-adress :hover{
+    color: #404bbf;
+}
+
+.hero-image {
+    color: #ffffff;
+    background-color: #2E2F42;
+    text-align: center;
+}
+
+button {
+    color: #ffffff;
+    background-color: #4d5ae4;
+    width: 159px;
+    height: 56px;
 }

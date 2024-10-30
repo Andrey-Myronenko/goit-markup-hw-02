@@ -1,3 +1,1 @@
-# my-first-project
-
-Nothing important, i'm just studing
+Hello mentor! Thank you from you work ! C:

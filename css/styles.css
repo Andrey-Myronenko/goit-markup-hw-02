@@ -40,17 +40,17 @@ a {
 }
 
 
-address {
+.adress {
     font-style: normal;
 }
 
-.link-adress {
+.adress .link-adress {
     line-height: 1.5;
     letter-spacing: 0.02em;
 }
 
-.link-adress :hover,
-.link-adress :focus{
+.adress .link-adress :hover,
+.adress .link-adress :focus{
     color: #404bbf;
 }
 

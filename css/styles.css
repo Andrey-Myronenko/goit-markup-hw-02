@@ -1,5 +1,5 @@
 body {
-    font-family: "Roboto", "Raleway", sans-serif;
+    font-family: "Roboto", sans-serif;
     color: #434455;
     background-color: #ffffff;
 }
@@ -26,11 +26,6 @@ a {
     color: #404bbf;
 }
 
-.logo {
-    width: 115px ;
-    height: 24px;
-}
-
 .hero-image {
     color: #ffffff;
     background-color: #2E2F42;
@@ -40,8 +35,6 @@ a {
 .hero-image .button1 {
     color: #ffffff;
     background-color: #4d5ae4;
-    width: 159px;
-    height: 56px;
 }
 
 .button1 :hover {
@@ -60,9 +53,4 @@ a {
 footer {
     background-color: #2E2F42;
     color: #f4f4fd;
-}
-
-.footer-logo {
-    width: 115px;
-    height: 24px;
 }

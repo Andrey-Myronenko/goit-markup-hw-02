@@ -13,6 +13,20 @@ a {
     color: #434455;
 }
 
+.logo-nav {
+    font-family: "Raleway", sans-serif;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 1.17;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    color: #4d5ae5;
+}
+
+.accent {
+    color: #2e2f42;
+}
+
 .navigation .link-nav :hover {
     color: #404bbf;
 }
@@ -22,7 +36,31 @@ a {
     text-decoration: underline;
 }
 
+.link-studio {
+    font-weight: 500;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #2e2f42;
+}
+
+.link-studio :focus{
+    color: #404bbf;
+}
+
+.adress {
+    font-style: normal;
+}
+
+.adress .link-adress {
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+}
+
 .adress .link-adress :hover{
+    color: #404bbf;
+}
+
+.adress .link-adress :focus{
     color: #404bbf;
 }
 

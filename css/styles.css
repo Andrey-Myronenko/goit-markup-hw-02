@@ -60,13 +60,24 @@ a {
     text-align: center;
 }
 
-.hero-image .button1 {
-    color: #ffffff;
-    background-color: #4d5ae4;
+.hero-title {
+    font-size: 56px;
+    line-height: 1.07;
+    letter-spacing: 0.02em;
 }
 
-.button1 :hover {
-    color: #404bbf;
+.button1 {
+    color: #ffffff;
+    background-color: #4d5ae4;
+    font-weight: 500;
+    line-height: 1.5;
+    letter-spacing: 0.04em;
+}
+
+.button1 :hover,
+.button1 :focus {
+    background-color: #404BBF;
+    cursor: pointer;
 }
 
 .benefits {

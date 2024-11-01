@@ -34,14 +34,10 @@ a {
     color: #2e2f42;
 }
 
-.studio:hover {
+.studio:hover,
+.studio:focus {
         color: #404bbf;
     }
-
-.studio:focus {
-    color:#404bbf;
-}
-
 
 .adress {
     font-style: normal;
@@ -52,14 +48,10 @@ a {
     letter-spacing: 0.02em;
 }
 
-.adress .link-adress:hover {
-    color: #404bbf;
- }
-
-
+.adress .link-adress:hover,
 .adress .link-adress:focus {
     color: #404bbf;
-}
+ }
 
 .hero-image {
     color: #ffffff;
@@ -75,16 +67,16 @@ a {
 
 .button1 {
     color: #ffffff;
-    background-color: #4d5ae4;
+    background-color: #4D5AE5;
     font-weight: 500;
     line-height: 1.5;
     letter-spacing: 0.04em;
+    cursor: pointer;
 }
 
 .button1:hover,
 .button1:focus {
     background-color: #404BBF;
-    cursor: pointer;
 }
 
 .benefits {

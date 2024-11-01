@@ -96,13 +96,16 @@ a {
     letter-spacing: 0.02em;
 }
 
+.team {
+    background-color: #f4f4fd;
+}
+
 .team-title-one {
     font-size: 36px;
     line-height: 1.11;
     letter-spacing: 0.02em;
     text-transform: capitalize;
     color: #2e2f42;
-    background-color: #f4f4fd;
     text-align: center;
 }
 

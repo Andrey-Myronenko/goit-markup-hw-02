@@ -65,7 +65,7 @@ a {
     letter-spacing: 0.02em;
 }
 
-.hero-button {
+.hero-image .hero-button {
     color: #ffffff;
     background-color: #4D5AE5;
     font-weight: 500;
@@ -74,8 +74,8 @@ a {
     cursor: pointer;
 }
 
-.hero-button:hover,
-.hero-button:focus {
+.hero-image .hero-button:hover,
+.hero-image .hero-button:focus {
     background-color: #404BBF;
 }
 

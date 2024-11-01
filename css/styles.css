@@ -34,8 +34,11 @@ a {
     color: #2e2f42;
 }
 
-.studio :hover,
-.studio :focus {
+.studio:hover {
+        color: #404bbf;
+    }
+
+.studio:focus {
     color:#404bbf;
 }
 
@@ -49,8 +52,12 @@ a {
     letter-spacing: 0.02em;
 }
 
-.adress .link-adress :hover,
-.adress .link-adress :focus{
+.adress .link-adress:hover {
+    color: #404bbf;
+ }
+
+
+.adress .link-adress:focus {
     color: #404bbf;
 }
 
@@ -74,8 +81,8 @@ a {
     letter-spacing: 0.04em;
 }
 
-.button1 :hover,
-.button1 :focus {
+.button1:hover,
+.button1:focus {
     background-color: #404BBF;
     cursor: pointer;
 }
